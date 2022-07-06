@@ -10,7 +10,7 @@ More detailed instructions:
         Note that the files will not stay updated, but this is definitely the easiest way to to do it. I'll let you know if I make major changes
   2. Unzip the files to a folder of your choosing.
   3a. If you have Spyder: open Spyder, open fight_main.py, click Run or press F5
-  3b. If you do not have Spyder, and assuming you have Windows:
+  3b. If you do not have Spyder, and assuming you have Windows and Python 3:
         1. Copy the file path to the folder where you unzipped the files
         2. Open a Command Prompt window
         3. Enter: cd <your file path>
