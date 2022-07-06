@@ -31,7 +31,7 @@ def start():
         hp = 100
         ac = 16
         damage = 8
-        bonus = 6
+        bonus = 7
     elif clas == "Rogue":
         hp = 85
         ac = 18
